@@ -7,7 +7,7 @@ client.on('ready', async () => {
     client.user.setStatus('available')
     client.user.setPresence({
         game: {
-            name: 'castHelp',
+            name: 'GAMING AND CHILLING',
             type: "WATCHING",
         }
      }); 
